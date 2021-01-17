@@ -6,13 +6,13 @@ I will be sharing a simple roadmap and resources that I use personally for impro
 
 ### 🏃‍♂️ Let's Begin!
 
-Its more like a mix of Roadmap and Resource. So, that if you are a complete beginner you will have something to jump to :)
+Its more like a mix of Roadmap and Resource. So, that if you are a complete beginner you will have something to start with :)
 
 ## 🎯 Confusion Regarding Dart
 
 A lot of people think ask whether we need to learn **Dart** before starting flutter or not? My opinion is:
 
-- If you are new programmer, you must the knowledge of OOP and Stack in Data structure will be a plus!
+- If you are new programmer, you must have the knowledge of OOP and Stack in Data structure will be a plus!
 - Otherwise, there is no need to learn Dart specifically its quite similar to Java/C++/C# so you will keep getting it on the way :)
 
 <p align="center">
@@ -143,7 +143,7 @@ Below are the resources which you can use to expand you Flutter knowledge and re
   - [Easy Approach][easyapproach-yt]
   - [Net Ninja][net-ninja-playlist]
 
-## Make sure to 🌟 the Repo!
+### Make sure to 🌟 the Repo!
 
 ## Author
 
