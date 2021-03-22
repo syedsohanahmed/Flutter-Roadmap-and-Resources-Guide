@@ -147,15 +147,15 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 
 ## Author
 
-#### Muhammad Hamza 🧑
+#### Syed Sohan Ahmed 🧑
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/mhamzadev)
+)](https://www.linkedin.com/in/syedsohanahmed)
 
 👉 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/syedsohanahmed)
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2022 Syed Sohan Ahmed
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
