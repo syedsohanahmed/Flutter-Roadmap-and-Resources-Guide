@@ -108,15 +108,7 @@ Since you are a cross-platform app developer now, you must know about the guidel
 <img height=300 src="https://user-images.githubusercontent.com/43790152/100070839-34a48c00-2e5c-11eb-8538-0ed74dc7d697.png" >
 </p>
 
-## 🤔 What's Next?
 
-Learning never ends! Keep learning with resources, keep exploring, keep sharing your apps and projects with others to get reviews and help. And always remember:
-
-<p align="center" style="font-size: 36px; text-align: center;"><i>"Achivements Don't Speak themselves!"</i></p>
-
-- Get yourself a Nice looking [GitHub profile][github-profile] and showcase your project with proper documentation. This shows other people who are looking for developers that you are serious about your work and career. Get a nice GitHub Readme for you. [Here's mine][github-readme], you can use it and customize it for yourself 😊
-- Same goes for having a Nice looking [LinkedIn profile][linkedin-profile] and make connection. This will keep you going and you will get numerous opportunity on the way!
-- Another good way to present yourself will be having a [live resume][live-resume]. Ask your friend to get you simple one.
 
 ## 📃 Other Resources
 
@@ -148,12 +140,7 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 ## Author
 
 #### Syed Sohan Ahmed 🧑
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/syedsohanahmed)
 
-👉 You can also follow my GitHub Profile to stay updated about my latest projects:
-
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/syedsohanahmed)
 
 Copyright (c) 2022 Syed Sohan Ahmed
 
