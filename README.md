@@ -210,7 +210,6 @@ Copyright (c) 2020 MUHAMMAD HAMZA
 [itsallwidges]: https://itsallwidgets.com/
 [fidev]: https://fidev.io/
 
-[my-stackoverflow]: https://stackoverflow.com/users/12297382/hamza
-[my-github]: https://github.com/m-hamzashakeel
-[my-medium]: https://medium.com/@hamza.6.shakeel
-[my-portfolio]: http://m-hamzashakeel.github.io/
+
+[my-github]: https://github.com/syedsohanahmed
+[my-portfolio]: http://syedsohanahmed.github.io/
